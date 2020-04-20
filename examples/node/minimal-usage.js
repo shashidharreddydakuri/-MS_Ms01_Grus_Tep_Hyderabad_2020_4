@@ -5,6 +5,7 @@ faker.locale = "en";
 
 //console.log(faker.lorem.sentences())
 
+console.log(faker.watch.watch())
 console.log(faker.name.findName())
 return;
 //console.log(faker.address)
