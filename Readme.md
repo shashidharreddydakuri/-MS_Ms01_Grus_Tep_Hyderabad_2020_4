@@ -1,3 +1,4 @@
+added watch catogery to faker app, to test go to examples/node, run node 'minimal-usage.js'
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
